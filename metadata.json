@@ -1,0 +1,6 @@
+{
+  "name": "Loja de Veículos com IA",
+  "description": "Plataforma completa para revenda de veículos online, equipada com catálogo inteligente, painel de administração e assistente virtual de vendas integrado à IA do Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
